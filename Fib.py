@@ -6,3 +6,5 @@ def fib(n):
         a, b = b, a+b
 
 fib(1000)
+
+# test
